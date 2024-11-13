@@ -3487,7 +3487,7 @@
   
   .btn-primary {
     color: #fff;
-    background-color: #f9aa00;
+    background-color: #f9a200;
     border-color: #f9aa00;
   }
   
@@ -9560,7 +9560,7 @@
   }
   
   .bg-1000 {
-    background-color: #242F51 !important;
+    background-color: #e07918 !important;
   }
   
   .bg-1100 {
@@ -9861,6 +9861,10 @@
   
   .text-1000 {
     color: #242F51 !important;
+  }
+
+  .text-2407{
+    color: #307147 !important;
   }
   
   .text-1100 {
